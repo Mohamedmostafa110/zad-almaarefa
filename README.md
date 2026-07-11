@@ -81,9 +81,21 @@ Open `index.html` in your browser.
 
 ## 👨‍💻 Author
 
-Mohamed Mostafa
+### [Mohamed Mostafa](https://github.com/YourGitHubUsername)
 
-Front-End Developer
+ Front-End Developer
+
+
+
+- Front-End Development
+- Project Architecture
+- UI Design & Implementation
+- HTML5 Development
+- CSS3 Styling
+- JavaScript Development
+- Responsive Design
+- Performance Optimization
+- Testing & Debugging
 
 Currently learning:
 - HTML
