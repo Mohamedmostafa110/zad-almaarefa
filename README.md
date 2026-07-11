@@ -88,7 +88,7 @@ Open `index.html` in your browser.
 
 ## 👨‍💻 Author
 
-### [Mohamed Mostafa](https://github.com/YourGitHubUsername)
+### [Mohamed Mostafa](https://github.com/Mohamedmostafa110)
 
  Front-End Developer
 
