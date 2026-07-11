@@ -52,7 +52,7 @@ The project structure, UI implementation, HTML, CSS, customization, debugging, a
 
 ## 🚀 Live Demo
 
-(Add your live website link here)
+(https://mohamedmostafa110.github.io/zad-almaarefa/)
 
 ---
 
@@ -61,7 +61,7 @@ The project structure, UI implementation, HTML, CSS, customization, debugging, a
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/zad-almaarefa.git
+git clone https://github.com/Mohamedmostafa110/zad-almaarefa.git
 ```
 
 Open `index.html` in your browser.
