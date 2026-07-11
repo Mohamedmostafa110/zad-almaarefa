@@ -59,7 +59,7 @@ The project structure, UI implementation, HTML, CSS, customization, debugging, a
 
 ## 🚀 Live Demo
 
-(https://mohamedmostafa110.github.io/zad-almaarefa/)
+🔗 https://mohamedmostafa110.github.io/zad-almaarefa/
 
 ---
 
